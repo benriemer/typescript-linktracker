@@ -11,14 +11,14 @@
     "npm run codegen": "graphql-codegen --config codegen.yml"
   },
   "dependencies": {
-    "@apollo/client": "^3.3.7",
+    "@apollo/client": "^3.4.0",
     "autoprefixer": "^10.2.3",
     "graphql": "^15.4.0",
-    "next": "latest",
+    "next": "12.1.0",
     "postcss": "^8.2.4",
     "react": "latest",
     "react-dom": "latest",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.2.0"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "1.21.5",
